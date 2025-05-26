@@ -20,10 +20,6 @@
 - [💼 Studi Kasus](#-studi-kasus)
 - [🛠️ Teknologi yang Digunakan](#️-teknologi-yang-digunakan)
 - [🚀 Cara Menjalankan](#-cara-menjalankan)
-- [📁 Struktur Project](#-struktur-project)
-- [🎓 Konsep yang Dipelajari](#-konsep-yang-dipelajari)
-- [👨‍💻 Kontributor](#-kontributor)
-- [📞 Kontak](#-kontak)
 
 ---
 
